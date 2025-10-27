@@ -3,7 +3,7 @@
 Sou desenvolvedor Python especializado em **automação de processos** (emails, web scraping, relatórios, testes, etc.).
 
 ## 🚀 Projetos de Automação
-- 📨 [Automação de Envio de Emails](link)
+- 📨 [Automação de Envio de Emails]([link](https://github.com/Felipeprogdev/email-automation-demo))
 - 🌐 [Web Scraper de Vagas](link)
 - 💾 [Backup Automático de Arquivos](link)
 - 📊 [Relatórios Automáticos de Vendas](link)
